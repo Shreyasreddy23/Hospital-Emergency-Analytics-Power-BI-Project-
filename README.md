@@ -59,10 +59,9 @@ The solution helps stakeholders track **patient admissions, wait times, referral
 ## 📸 Screenshots
 | Monthly View |
 |--------------|------------------|
-| ![](<img width="1261" height="757" alt="MONTHLY VIEW Dashboard" src="https://github.com/user-attachments/assets/6e5d2bb2-0546-4815-b0ad-829d912fcf8e" />) 
+| (<img width="1261" height="757" alt="MONTHLY VIEW Dashboard" src="https://github.com/user-attachments/assets/6e5d2bb2-0546-4815-b0ad-829d912fcf8e" />) 
  |Consolidated View |
- (<img width="1232" height="753" alt="Consolidated View dashboard" src="https://github.com/user-attachments/assets/2215ec08-1cf7-4b5e-b5d0-6ba6ab6a5814" />
-) |
+ (<img width="1232" height="753" alt="Consolidated View dashboard" src="https://github.com/user-attachments/assets/2215ec08-1cf7-4b5e-b5d0-6ba6ab6a5814" />) 
 
 | Patient Details |
 |-----------------|---------------|
