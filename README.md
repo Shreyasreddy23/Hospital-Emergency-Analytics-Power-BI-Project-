@@ -57,17 +57,20 @@ The solution helps stakeholders track **patient admissions, wait times, referral
 ---
 
 ## 📸 Screenshots
-| Monthly View | Consolidated View |
+| Monthly View |
 |--------------|------------------|
-| ![](<img width="1261" height="757" alt="MONTHLY VIEW Dashboard" src="https://github.com/user-attachments/assets/6e5d2bb2-0546-4815-b0ad-829d912fcf8e" />
-) | ![](<img width="1232" height="753" alt="Consolidated View dashboard" src="https://github.com/user-attachments/assets/2215ec08-1cf7-4b5e-b5d0-6ba6ab6a5814" />
+| ![](<img width="1261" height="757" alt="MONTHLY VIEW Dashboard" src="https://github.com/user-attachments/assets/6e5d2bb2-0546-4815-b0ad-829d912fcf8e" />) 
+ |Consolidated View |
+ (<img width="1232" height="753" alt="Consolidated View dashboard" src="https://github.com/user-attachments/assets/2215ec08-1cf7-4b5e-b5d0-6ba6ab6a5814" />
 ) |
 
-| Patient Details | Key Takeaways |
+| Patient Details |
 |-----------------|---------------|
-| ![](<img width="1223" height="748" alt="Patient details dashboard" src="https://github.com/user-attachments/assets/07d29e95-caf5-41f3-8476-1742028d0c25" />
-) | ![](<img width="1228" height="742" alt="Key Takeaways dashboard" src="https://github.com/user-attachments/assets/a608a363-ffee-479e-b997-f619ebac03a7" />
-) |
+| (<img width="1223" height="748" alt="Patient details dashboard" src="https://github.com/user-attachments/assets/07d29e95-caf5-41f3-8476-1742028d0c25" />
+) 
+| Key Takeaways |
+ (<img width="1228" height="742" alt="Key Takeaways dashboard" src="https://github.com/user-attachments/assets/a608a363-ffee-479e-b997-f619ebac03a7" />
+) 
 
 ---
 
